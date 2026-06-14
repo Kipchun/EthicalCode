@@ -6,8 +6,8 @@ Developed using React Typescript for the frontend, Go for the backend, PostgreSQ
 
 ## About the Stack
 
-React Typescript:
-    This was choses since it is the most optimal 
+TODO:
+    Describe the stack
 
 
 ## Project Layout
@@ -27,8 +27,6 @@ React Typescript:
     - npm start
 
     - http://localhost:3000
-
-
 ```
 
 ## Running Docker
